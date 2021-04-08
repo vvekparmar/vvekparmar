@@ -8,5 +8,9 @@
 - 🌱 I’m currently learning Machine Learning
 
 <a href="https://github.com/vvekparmar">
-<img src="https://github-readme-stats.vercel.app/api?username=vvekparmar&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=vvekparmar&show_icons=true&title_color=336EFF&icon_color=336EFF&text_color=000000&bg_color=FFFFFF">
+</a>
+
+<a href="https://github.com/vvekparmar">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvekparmar">
 </a>
