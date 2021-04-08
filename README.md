@@ -7,21 +7,10 @@
 - 🔭 I’m currently working on Cross Platform Application using Flutter Framework
 - 🌱 I’m currently learning Machine Learning
 
-<table border=0px>
-    <tr>
-      <td><a href="https://github.com/vvekparmar">
-        <img src="https://github-readme-stats.vercel.app/api?username=vvekparmar&show_icons=true&title_color=336EFF&icon_color=336EFF&text_color=000000&bg_color=FFFFFF">
-        </a>
-      </td>
-      <td rowspan="2"><a href="https://github.com/vvekparmar">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvekparmar">
-        </a>
-      </td>
-    </tr>
-  
-   <tr>
-      <td><a href="https://github.com/vvekparmar">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vvekparmar&repo=vvekparmar">
-      </a></td>
-    </tr>
-</table>
+<a href="https://github.com/vvekparmar">
+   <img src="https://github-readme-stats.vercel.app/api?username=vvekparmar&show_icons=true&title_color=336EFF&icon_color=336EFF&text_color=000000&bg_color=FFFFFF">
+</a>
+
+<a href="https://github.com/vvekparmar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvekparmar">
+</a>
