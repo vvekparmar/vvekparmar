@@ -48,8 +48,8 @@
   #### Tools & Platforms :
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>   <!-- Anaconda --> 
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>           <!-- Postman -->
-   <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a> <!-- Android Studio --> 
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a> <!-- PyCharm --> 
+   <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a> <!-- Android Studio --> 
   <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> <!-- Visual Studio Code --> 
 
 ## Connect with me !
