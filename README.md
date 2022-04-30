@@ -1,6 +1,6 @@
 ### Hi there, I'm Vivek Parmar! 👋
-- 🔭 Enthusiastic about Technology.
--  ⚡ I’m currently working as a Software Developer at Maruti Techlabs, Ahmedabad.
+- 🔭 Enthusiastic about Machine Learning, Deep Learning and NLP.
+-  ⚡ I’m currently working as a Data Scientist at Maruti Techlabs, Ahmedabad.
 
 ## Skills : 
 #### Programming & Scripting Languages :
