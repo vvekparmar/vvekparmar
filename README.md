@@ -6,6 +6,13 @@
 <a href="mailto:parmarvivek114@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <!-- Gmail -->
 </p>
 
+### ABOUT ME :
+- 🤩 Enthusiastic about Intelligence  
+- 🐍 Python, 🤖 Machine Learning, 🧠 Deep Learning
+- 🗣️ Currently working on Natural Language Processing.
+- 🤗 Believe in collaborate and growing together.
+- 🤝 Reach out to me through my mail: parmarvivek114@gmail.com
+
 ## Skills 
 #### Programming & Scripting Languages :
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a>                <!-- Python -->
