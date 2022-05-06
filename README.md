@@ -1,8 +1,12 @@
-### Hi there, I'm Vivek Parmar! 👋
-- 🔭 Enthusiastic about Machine Learning, Deep Learning and NLP.
--  ⚡ I’m currently working as a Data Scientist at Maruti Techlabs, Ahmedabad.
+<h2 align='center'> Hi there, I'm Vivek Parmar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-## Skills : 
+<p align='center'>
+<a href="https://twitter.com/vvekparmar"><img src="https://img.shields.io/badge/vvekparmar-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>    <!-- Twitter -->
+<a href="https://www.linkedin.com/in/vivekparmar18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <!-- LinkedIN -->
+<a href="mailto:parmarvivek114@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <!-- Gmail -->
+</p>
+
+## Skills 
 #### Programming & Scripting Languages :
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a>                <!-- Python -->
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a> <!-- Java -->
@@ -11,7 +15,6 @@
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a> <!-- C --> <br>
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>                <!-- Nodejs -->
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>          <!-- JavaScript -->
-   <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a> <!-- PHP -->
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <!-- CSS -->
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <!-- HTML -->
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>    <!-- Shell Scripting -->
@@ -38,6 +41,7 @@
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></a><!-- Firebase --> 
 
  #### Databases :
+  <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"></a>      <!-- ElasticSearch --> 
   <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>      <!-- MongoDB --> 
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>  <!-- PosgreSQL --> 
   <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>        <!-- Sqlite --> 
@@ -50,12 +54,11 @@
    <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a> <!-- Android Studio --> 
   <a href="https://github.com/vvekparmar"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> <!-- Visual Studio Code --> 
 
-## Connect with me !
-<a href="https://twitter.com/vvekparmar"><img src="https://img.shields.io/badge/vvekparmar-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>    <!-- Twitter -->
-<a href="https://www.linkedin.com/in/vivekparmar18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <!-- LinkedIN -->
-<a href="mailto:parmarvivek114@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <!-- Gmail -->
 
-#### Github Stats :
+## Github Stats 
+
 <a href="https://github.com/vvekparmar">
-   <img src="https://github-readme-stats.vercel.app/api?username=vvekparmar&show_icons=true&title_color=336EFF&icon_color=336EFF&text_color=000000&bg_color=FFFFFF">
+<img src="https://github-readme-stats.vercel.app/api?username=vvekparmar&show_icons=true&title_color=336EFF&icon_color=336EFF&text_color=000000&bg_color=FFFFFF">
 </a>
+
+<a href="https://github.com/vvekparmar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvekparmar"></a>
