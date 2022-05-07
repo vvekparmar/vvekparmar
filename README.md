@@ -7,7 +7,7 @@
 </p>
 
 ### ABOUT ME :
-- 🤩 Enthusiastic about Intelligence  
+- 🤩 Enthusiastic about Intelligence Systems
 - 🐍 Python, 🤖 Machine Learning, 🧠 Deep Learning
 - 🗣️ Currently working on Natural Language Processing.
 - 🤗 Believe in collaborate and growing together.
