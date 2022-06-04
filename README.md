@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there, I'm Vivek Parmar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align='center'> Hi there, I'm Vivek Parmar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h2>
 
 <p align='center'>
 <a href="https://twitter.com/vvekparmar"><img src="https://img.shields.io/badge/vvekparmar-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>    <!-- Twitter -->
