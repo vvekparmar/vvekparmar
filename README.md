@@ -8,7 +8,7 @@
 ### ABOUT ME :
 - 🤩 Enthusiastic about Intelligence Systems
 - 🐍 Python, 🤖 Machine Learning, 🧠 Deep Learning
-- 🗣️ Currently Learning Backend Frameworks and Tools
+- 🗣️ Backend Frameworks and Tools
 - 🤗 Believe in collaborate and growing together.
 - 🤝 Reach out to me through my mail: parmarvivek114@gmail.com
 
